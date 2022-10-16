@@ -2,6 +2,9 @@
 
 <h3>There is a file in powershell that contents my shortcuts.</h3>
 
+Powershell used in Windows terminal preview:
+https://github.com/PowerShell/PowerShell
+
 Winget CLI ( Windows packer manager client ) necessary to install the modules:
 https://github.com/microsoft/winget-cli
 
