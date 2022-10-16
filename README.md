@@ -1,5 +1,7 @@
 # My-windows-terminal-Preview-files
 
+<h3>There is a file in powershell that contents my shortcuts.</h3>
+
 Preview:
 ![image](https://user-images.githubusercontent.com/69158247/196044295-d1c20e70-86db-4d28-b850-027601c47ea6.png)
 
