@@ -14,6 +14,9 @@ https://github.com/devblackops/Terminal-Icons
 Github of the Themes module (oh-my-posh):
 https://github.com/JanDeDobbeleer/oh-my-posh
 
+oh-my-posh website to get an instruction for the installation in windows using winget:
+https://ohmyposh.dev/docs/installation/windows
+
 Preview:
 ![image](https://user-images.githubusercontent.com/69158247/196044295-d1c20e70-86db-4d28-b850-027601c47ea6.png)
 
