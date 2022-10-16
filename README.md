@@ -2,6 +2,9 @@
 
 <h3>There is a file in powershell that contents my shortcuts.</h3>
 
+Winget CLI ( Windows packer manager client ) neccesary to install the modules:
+https://github.com/microsoft/winget-cli
+
 Scoop for some installations:
 https://scoop.sh/
 
