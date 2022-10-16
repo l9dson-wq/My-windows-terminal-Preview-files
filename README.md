@@ -2,7 +2,7 @@
 
 <h3>There is a file in powershell that contents my shortcuts.</h3>
 
-Winget CLI ( Windows packer manager client ) neccessary to install the modules:
+Winget CLI ( Windows packer manager client ) necessary to install the modules:
 https://github.com/microsoft/winget-cli
 
 Scoop for some installations:
