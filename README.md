@@ -2,6 +2,9 @@
 
 <h3>There is a file in powershell that contents my shortcuts.</h3>
 
+Terminal:
+https://github.com/microsoft/terminal
+
 Powershell used in Windows terminal preview:
 https://github.com/PowerShell/PowerShell
 
