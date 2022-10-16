@@ -8,6 +8,9 @@ https://github.com/microsoft/terminal
 Powershell used in Windows terminal preview:
 https://github.com/PowerShell/PowerShell
 
+### both powershell and terminal can be install from windows store.
+---
+
 Winget CLI ( Windows packer manager client ) necessary to install the modules:
 https://github.com/microsoft/winget-cli
 
